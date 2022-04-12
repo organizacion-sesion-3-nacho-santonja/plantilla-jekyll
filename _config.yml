@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://organizacion-sesion-3-nacho-santonja.github.io/plantilla-jekyll/" # the base hostname & protocol for your site
 
 # Build settings
-theme: architect
+theme: jekyll-theme-slate
 
 # Build settings
 # markdown: kramdown
